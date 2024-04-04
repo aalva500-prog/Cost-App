@@ -11,5 +11,5 @@ The application meets the following requirements:
 * [x] Validation of the Data Entry Forms.
 * [x] Shows reports of the elements of the Database.
 * [x] It guarantees the updating of all the information shown in the reports.
-* [x] It a lows updating the database (insertion, modification, elimination).
+* [x] It allows updating the database (insertion, modification, elimination).
 * [x] Allows advanced search through various parameters and filters on the information of the database.
